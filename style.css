@@ -1,0 +1,19 @@
+ body {
+ 	background: #0e1212;
+ 	margin: 0;
+ 	padding: 0;
+ }
+ #canvas {
+ 	background: #100;
+ 	box-shadow: 0 0 0 9px #4b5;
+ 	cursor: crosshair; 
+ 	width: 700px;
+ 	height: 700px;
+ 	margin: auto;
+ 	position: absolute;
+ 	top: 0;
+ 	left: 0;
+ 	right: 0;
+ 	bottom: 0;
+ 	border-radius: 15px;
+ }
